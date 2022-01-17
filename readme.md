@@ -11,6 +11,7 @@ Habilite a extensão do PHP SQLite:
 
 Executar o projeto:
 - Baixe e extraia o projeto no seu computador
+- Renomeie o arquivo ".env.producao" para ".env"
 - Utilizando o prompt de comando, entre na pasta do projeto
 - Rode o comando "php artisan serve" para executar o projeto. 
 - Para visualizar, use o link http://localhost:8000/incidentes
